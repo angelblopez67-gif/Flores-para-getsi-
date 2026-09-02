@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/main.css">
+    <title>Flowers</title>
+</head>
+<body>
+    <div class="greetings"></div>
+    <div class="botones">
+        <audio id="player" src="sound/FlyMeToTheMoon.mp3" preload="auto"></audio>
+    </div>
+    <div class="notas">
+        <p id="lyrics"></p>
+    </div>
+    <script src="js/main.js"></script>
+    <script src="js/anim.js"></script>
+</body>
+</html>
