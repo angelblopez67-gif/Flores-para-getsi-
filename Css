@@ -1,0 +1,25 @@
+body {
+    background-color: #121212;
+    color: #ffffff;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding-top: 20vh;
+}
+.greetings {
+    font-size: 3rem;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+.description {
+    font-size: 1.5rem;
+    margin-bottom: 30px;
+}
+.botones button {
+    background-color: #ff4757;
+    border: none;
+    padding: 12px 24px;
+    font-size: 1.2rem;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
